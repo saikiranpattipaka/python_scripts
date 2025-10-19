@@ -1,0 +1,8 @@
+DISK_USAGE_THRESHOLD=85
+DISK_USAGE_PATH=/
+ALERT_EMAIL_FROM=alerts@yourdomain.com
+ALERT_EMAIL_TO=ops@yourdomain.com
+SMTP_SERVER=smtp.yourdomain.com
+SMTP_PORT=587
+SMTP_USERNAME=smtp-user
+SMTP_PASSWORD=supersecurepassword
